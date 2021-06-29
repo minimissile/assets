@@ -1,0 +1,62 @@
+{
+  "name": "cherryswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2219845942d28716c0f7c605765fabdca1a7d9e0.png",
+  "keywords": ["cherry", "default"],
+  "tokens": [
+    {
+      "name": "CHE",
+      "symbol": "CHE",
+      "address": "0x934437dab8756045104681999cac9804005435fe",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x934437dab8756045104681999cac9804005435fe.png"
+    },
+    {
+      "name": "BTCK",
+      "symbol": "BTCK",
+      "address": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0.png"
+    },
+    {
+      "name": "ETHK",
+      "symbol": "ETHK",
+      "address": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xdf950cecf33e64176ada5dd733e170a56d11478e.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xe579156f9decc4134b5e3a30a24ac46bb8b01281.png"
+    },
+    {
+      "name": "USDK",
+      "symbol": "USDK",
+      "address":"0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x533367b864d9b9aa59d0dcb6554df0c89feef1ff.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address":"0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3e33590013b24bf21d4ccca3a965ea10e570d5b2.png"
+    }
+  ]
+}

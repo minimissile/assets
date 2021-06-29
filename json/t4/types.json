@@ -1,0 +1,46 @@
+{
+  "name": "cherryswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wokt.png",
+  "keywords": ["cherry", "default"],
+  "tokens": [
+    {
+      "name": "CHE",
+      "symbol": "CHE",
+      "address": "0xD7A07aB45D2832D77A9Bde5D1f437A60292c5d7F",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": "/images/coins/0xD7A07aB45D2832D77A9Bde5D1f437A60292c5d7F.png"
+  },
+    {
+      "name": "BTCK",
+      "symbol": "BTCK",
+      "address": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "/images/coins/0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0.png"
+    },
+    {
+      "name": "ETHK",
+      "symbol": "ETHK",
+      "address": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "/images/coins/0xdf950cecf33e64176ada5dd733e170a56d11478e.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "/images/coins/0xe579156f9decc4134b5e3a30a24ac46bb8b01281.png"
+    }
+  ]
+}

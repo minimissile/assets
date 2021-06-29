@@ -1,0 +1,68 @@
+[
+  {
+    "pid": 0,
+    "lpSymbol": "CHE",
+    "lpAddresses": "0x83ADc60fA62bE4662a1A04d82E348943c5Ae00e8",
+    "tokenSymbol": "SYRUP",
+    "tokenDecimals": 18,
+    "tokenAddresses": "0xECB11F7fEB59a6ac0B32fe2af7fe864e20a83D8d",
+    "quoteTokenSymbol": "OKT",
+    "quoteTokenAdresses": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+    "isCommunity": false
+  },
+  {
+    "pid": 1,
+    "lpSymbol": "CHE-OKT LP",
+    "lpAddresses": "0x510d7bd988e475c8826e4a10411bb94e303d68d6",
+    "tokenSymbol": "CHE",
+    "tokenDecimals": 18,
+    "tokenAddresses": "0x83ADc60fA62bE4662a1A04d82E348943c5Ae00e8",
+    "quoteTokenSymbol": "OKT",
+    "quoteTokenAdresses": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+    "isCommunity": false
+  },
+  {
+    "pid": 2,
+    "lpSymbol": "CHE-USDT LP",
+    "lpAddresses": "0xd7e6d44c80f5837089fdd70e5148355a47577cf7",
+    "tokenSymbol": "USDT",
+    "tokenDecimals": 10,
+    "tokenAddresses": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+    "quoteTokenSymbol": "CHE",
+    "quoteTokenAdresses": "0x83ADc60fA62bE4662a1A04d82E348943c5Ae00e8",
+    "isCommunity": false
+  },
+  {
+    "pid": 3,
+    "lpSymbol": "OKT-USDT LP",
+    "lpAddresses": "0xceb1f6f233c7a62811c8c716e940e4760c4e9bf1",
+    "tokenSymbol": "USDT",
+    "tokenDecimals": 10,
+    "tokenAddresses": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+    "quoteTokenSymbol": "OKT",
+    "quoteTokenAdresses": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+    "isCommunity": false
+  },
+  {
+    "pid": 4,
+    "lpSymbol": "BTCK-USDT LP",
+    "lpAddresses": "0x022ddf9d5ce173c137717383349fd65c9d82261a",
+    "tokenSymbol": "USDT",
+    "tokenDecimals": 10,
+    "tokenAddresses": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+    "quoteTokenSymbol": "BTCK",
+    "quoteTokenAdresses": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+    "isCommunity": false
+  },
+  {
+    "pid": 5,
+    "lpSymbol": "ETHK-USDT LP",
+    "lpAddresses": "0x59a8bc379dcd3c47f199562b6ebd87afa93f4131",
+    "tokenSymbol": "USDT",
+    "tokenDecimals": 10,
+    "tokenAddresses": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+    "quoteTokenSymbol": "ETHK",
+    "quoteTokenAdresses": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
+    "isCommunity": false
+  }
+]
