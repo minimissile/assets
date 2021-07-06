@@ -13,50 +13,42 @@
     {
       "name": "CHE",
       "symbol": "CHE",
-      "address": "0xe177a7c504d44d5cd1fe863e29ed806be5e2906a",
-      "chainId": 65,
+      "address": "0x205837bE989b5a27F78Fc9c6693449d4Cc3c6f60",
+      "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3bcbf08beea144ac135763317e85f3ccb3c48a99.png"
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x205837bE989b5a27F78Fc9c6693449d4Cc3c6f60.png"
     },
     {
       "name": "BTCK",
       "symbol": "BTCK",
-      "address": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
-      "chainId": 65,
+      "address": "0x4DBeBfe912e9F7579891b38977136c462aD02F23",
+      "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0.png"
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x4DBeBfe912e9F7579891b38977136c462aD02F23.png"
     },
     {
       "name": "ETHK",
       "symbol": "ETHK",
-      "address": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
-      "chainId": 65,
+      "address": "0x2A8A9B21C2798b1eBB1798E1E62cfD90359aEA59",
+      "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xdf950cecf33e64176ada5dd733e170a56d11478e.png"
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2A8A9B21C2798b1eBB1798E1E62cfD90359aEA59.png"
     },
     {
       "name": "USDT",
       "symbol": "USDT",
-      "address": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-      "chainId": 65,
+      "address": "0x481c5c36EfaBCc707f1c67A6a223dc5Bfb535183",
+      "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xe579156f9decc4134b5e3a30a24ac46bb8b01281.png"
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x481c5c36EfaBCc707f1c67A6a223dc5Bfb535183.png"
     },
     {
-      "name": "USDK",
-      "symbol": "USDK",
-      "address":"0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-      "chainId": 65,
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address":"0xed51Cba54a77D9Db21727bB79eB7fdfc492e8bCF",
+      "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x533367b864d9b9aa59d0dcb6554df0c89feef1ff.png"
-    },
-    {
-      "name": "USDC",
-      "symbol": "USDC",
-      "address":"0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-      "chainId": 65,
-      "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3e33590013b24bf21d4ccca3a965ea10e570d5b2.png"
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xed51Cba54a77D9Db21727bB79eB7fdfc492e8bCF.png"
     }
   ]
 }
