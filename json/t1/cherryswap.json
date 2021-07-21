@@ -7,48 +7,67 @@
     "patch": 1
   },
   "tags": {},
-  "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2219845942d28716c0f7c605765fabdca1a7d9e0.png",
-  "keywords": ["cherry", "default"],
+  "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xcf436964fcda3a2c514d8740f73a9781f55a8053.png",
+  "keywords": [
+    "cherry",
+    "default"
+  ],
   "tokens": [
     {
       "name": "CHE",
       "symbol": "CHE",
-      "address": "0x205837bE989b5a27F78Fc9c6693449d4Cc3c6f60",
+      "address": "0xcF436964fCda3a2c514D8740F73A9781f55A8053",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x205837bE989b5a27F78Fc9c6693449d4Cc3c6f60.png"
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xcf436964fcda3a2c514d8740f73a9781f55a8053.png"
     },
     {
-      "name": "BTCK",
-      "symbol": "BTCK",
-      "address": "0x4DBeBfe912e9F7579891b38977136c462aD02F23",
+      "name": "CORAL",
+      "symbol": "CORAL",
+      "address": "0xcF436964fCda3a2c514D8740F73A9781f55A8053",
       "chainId": 97,
-      "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x4DBeBfe912e9F7579891b38977136c462aD02F23.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xcf436964fcda3a2c514d8740f73a9781f55a8053.png"
     },
     {
-      "name": "ETHK",
-      "symbol": "ETHK",
-      "address": "0x2A8A9B21C2798b1eBB1798E1E62cfD90359aEA59",
+      "name": "BTC",
+      "symbol": "BTC",
+      "address": "0x2aDec9254f56c0a90ad94Cf37C82371dDC0808B2",
       "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2A8A9B21C2798b1eBB1798E1E62cfD90359aEA59.png"
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x2adec9254f56c0a90ad94cf37c82371ddc0808b2.png"
+    },
+    {
+      "name": "ETH",
+      "symbol": "ETH",
+      "address": "0x33FF449f95bef3fb40ee873A90Eb7ca15AE4a873",
+      "chainId": 97,
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x33ff449f95bef3fb40ee873a90eb7ca15ae4a873.png"
     },
     {
       "name": "USDT",
       "symbol": "USDT",
-      "address": "0x481c5c36EfaBCc707f1c67A6a223dc5Bfb535183",
+      "address": "0x0CCA38fD7F87ABED5e2C343Bdb21D8D226996e20",
       "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x481c5c36EfaBCc707f1c67A6a223dc5Bfb535183.png"
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x0cca38fd7f87abed5e2c343bdb21d8d226996e20.png"
     },
     {
       "name": "BUSD",
       "symbol": "BUSD",
-      "address":"0xed51Cba54a77D9Db21727bB79eB7fdfc492e8bCF",
+      "address": "0x96E01eE4A80fE587595fD6C94be7E8897A4B6183",
       "chainId": 97,
       "decimals": 10,
-      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xed51Cba54a77D9Db21727bB79eB7fdfc492e8bCF.png"
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x96e01ee4a80fe587595fd6c94be7e8897a4b6183.png"
+    },
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "address": "0xfA447408518c992a770bFE09c14D29c21cBEE7B5",
+      "chainId": 97,
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xfa447408518c992a770bfe09c14d29c21cbee7b5.png"
     }
   ]
 }
