@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-      "name": "CHE",
-      "symbol": "CHE",
+      "name": "CORAL",
+      "symbol": "CORAL",
       "address": "0xcF436964fCda3a2c514D8740F73A9781f55A8053",
       "chainId": 97,
       "decimals": 18,
