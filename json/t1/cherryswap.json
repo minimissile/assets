@@ -52,14 +52,6 @@
       "chainId": 97,
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x96e01ee4a80fe587595fd6c94be7e8897a4b6183.png"
-    },
-    {
-      "name": "WBNB",
-      "symbol": "WBNB",
-      "address": "0xfA447408518c992a770bFE09c14D29c21cBEE7B5",
-      "chainId": 97,
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xfa447408518c992a770bfe09c14d29c21cbee7b5.png"
     }
   ]
 }
