@@ -16,10 +16,10 @@
     {
       "name": "CORAL",
       "symbol": "CORAL",
-      "address": "0x866bd3b24b0172d85c36996d9728bc10b79e08b6",
+      "address": "0xcF436964fCda3a2c514D8740F73A9781f55A8053",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x866bd3b24b0172d85c36996d9728bc10b79e08b6.png"
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xcf436964fcda3a2c514d8740f73a9781f55a8053.png"
     },
     {
       "name": "BTC",
