@@ -92,6 +92,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x84b9b910527ad5c03a9ca831909e21e236ea7b06.png"
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "address": "0xa83575490d7df4e2f47b7d38ef351a2722ca45b9",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xa83575490d7df4e2f47b7d38ef351a2722ca45b9.png"
     }
   ]
 }
