@@ -16,42 +16,84 @@
     {
       "name": "CORAL",
       "symbol": "CORAL",
-      "address": "0xcF436964fCda3a2c514D8740F73A9781f55A8053",
+      "address": "0xdC3b2381D0261ea069F817cEe3A013C55b312A90",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xcf436964fcda3a2c514d8740f73a9781f55a8053.png"
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xdc3b2381d0261ea069f817cee3a013c55b312a90.png"
     },
     {
       "name": "BTC",
       "symbol": "BTC",
-      "address": "0x2aDec9254f56c0a90ad94Cf37C82371dDC0808B2",
+      "address": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
       "chainId": 97,
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x2adec9254f56c0a90ad94cf37c82371ddc0808b2.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x6ce8da28e2f864420840cf74474eff5fd80e65b8.png"
     },
     {
       "name": "ETH",
       "symbol": "ETH",
-      "address": "0x33FF449f95bef3fb40ee873A90Eb7ca15AE4a873",
+      "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
       "chainId": 97,
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x33ff449f95bef3fb40ee873a90eb7ca15ae4a873.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378.png"
     },
     {
       "name": "USDT",
       "symbol": "USDT",
-      "address": "0x0CCA38fD7F87ABED5e2C343Bdb21D8D226996e20",
+      "address": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
       "chainId": 97,
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x0cca38fd7f87abed5e2c343bdb21d8d226996e20.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x337610d27c682e347c9cd60bd4b3b107c9d34ddd.png"
     },
     {
       "name": "BUSD",
       "symbol": "BUSD",
-      "address": "0x96E01eE4A80fE587595fD6C94be7E8897A4B6183",
+      "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
       "chainId": 97,
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x96e01ee4a80fe587595fd6c94be7e8897a4b6183.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x64544969ed7ebf5f083679233325356ebe738930",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x64544969ed7ebf5f083679233325356ebe738930.png"
+    },
+    {
+      "name": "CAKE",
+      "symbol": "CAKE",
+      "address": "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xa35062141fa33bca92ce69fed37d0e8908868aae.png"
+    },
+    {
+      "name": "BAKE",
+      "symbol": "BAKE",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0xae13d989dac2f0debff460ac112a837c89baa7cd.png"
+    },
+    {
+      "name": "LINK",
+      "symbol": "LINK",
+      "address": "0x84b9b910527ad5c03a9ca831909e21e236ea7b06",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minimissile/assets/main/images/coins/0x84b9b910527ad5c03a9ca831909e21e236ea7b06.png"
     }
   ]
 }
+
+
